@@ -53,6 +53,7 @@ Gli script PowerShell sono strumenti potenti per automatizzare ricerche compless
 * **HabibiModAnalyzer**
   * **Autore:** HadronCollision
   * **Scopo:** Automatizza l'analisi delle mod di Minecraft. Confronta gli hash dei file `.jar` con il database di Modrinth, esegue una scansione per stringhe di cheat comuni e analizza il `Zone.Identifier` per determinare l'origine del download.
+  * [Guida allo script](https://i.e-z.host/uyjimjyuw54ge2o.jpg)
   *   **Comando di Esecuzione:**
 
       ```powershell
@@ -126,6 +127,7 @@ Gli script PowerShell sono strumenti potenti per automatizzare ricerche compless
 * **Services.ps1 (Lilith-PS)**
   * **Autore:** praiselily
   * **Scopo:** Raccoglie e visualizza un riepilogo dettagliato delle informazioni di sistema, tra cui orario di avvio, uptime, drive connessi, stato dei servizi critici, impostazioni di registro e cronologia degli eventi (cancellazioni, shutdown, cambi di orario).
+  * [Guida allo script](https://i.e-z.host/q07hz9q7b7c4ux9.jpg)
   *   **Comando di Esecuzione:**
 
       ```powershell
@@ -134,6 +136,7 @@ Gli script PowerShell sono strumenti potenti per automatizzare ricerche compless
 * **Alt Account Finder**
   * **Autore:** Red Lotus Community
   * **Scopo:** Scansiona le directory di gioco e i file di log alla ricerca di stringhe (come "user" o "username") per trovare prove di account alternativi.
+  * [Guida allo script](https://i.e-z.host/7540s9neco4lk28.jpg)
   *   **Comando di Esecuzione:**
 
       ```powershell

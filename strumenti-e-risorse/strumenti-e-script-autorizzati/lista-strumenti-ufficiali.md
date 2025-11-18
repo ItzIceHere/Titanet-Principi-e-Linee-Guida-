@@ -6,6 +6,11 @@ icon: wrench
 
 Di seguito è riportata la lista completa e tassativa di tutti i software approvati per l'utilizzo durante gli screenshare su Titanet. L'uso di qualsiasi strumento non presente in questo elenco è severamente proibito.
 
+{% hint style="success" %}
+[**Forensic Toolkit Hub**](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fitzicehere-tool-downloader.vercel.app%2F)\
+Per facilitare il download di tutti gli strumenti approvati, è stato creato un sito web centralizzato chiamato **Forensic Toolkit Hub**. All'interno troverete i link di download diretti e verificati per ogni tool elencato in questa guida.
+{% endhint %}
+
 ***
 
 #### Strumenti di Analisi di Sistema e Processi

@@ -13,6 +13,13 @@ Per facilitare il download di tutti gli strumenti approvati, è stato creato un 
 
 ***
 
+#### Downloader di Strumenti
+
+* [**RedLotus Tool Downloader**](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fgithub.com%2FItzIceHere%2FRedLotus-Tool-Downloader%2Freleases%2Fdownload%2FRL%2FRedLotus.Downloader.exe)\
+  **Descrizione:** Un hub centralizzato progettato per scaricare automaticamente l'intera suite di strumenti approvati in questa guida. Scarica le versioni più recenti e sicure di tutti i software necessari (NirSoft, Sysinternals, Spok, Zimmerman) in pochi secondi, garantendo la standardizzazione del controllo.
+
+***
+
 #### Strumenti di Analisi di Sistema e Processi
 
 * [**System Informer**](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fsysteminformer.sourceforge.io%2F)\

@@ -17,6 +17,8 @@ Per facilitare il download di tutti gli strumenti approvati, è stato creato un 
 
 * [**RedLotus Tool Downloader**](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fgithub.com%2FItzIceHere%2FRedLotus-Tool-Downloader%2Freleases%2Fdownload%2FRL%2FRedLotus.Downloader.exe)\
   **Descrizione:** Un hub centralizzato progettato per scaricare automaticamente l'intera suite di strumenti approvati in questa guida. Scarica le versioni più recenti e sicure di tutti i software necessari (NirSoft, Sysinternals, Spok, Zimmerman) in pochi secondi, garantendo la standardizzazione del controllo.
+* [**RedLotus Task Sentinel**](https://github.com/ItzIceHere/RedLotus-Task-Sentinel/releases/download/RL/RedLotusTaskSentinel.exe)\
+  **Descrizione:** Analizzatore forense avanzato per il Task Scheduler di Windows. Rileva meccanismi di persistenza nascosti come Ghost Tasks e hijacking IFEO, integrando scansioni YARA e verifica delle firme. Monitora le modifiche post-boot tramite il Journal NTFS per identificare tentativi di evasione e binari sospetti invisibili ai tool standard.
 
 ***
 

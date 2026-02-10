@@ -21,6 +21,8 @@ Per facilitare il download di tutti gli strumenti approvati, è stato creato un 
   **Descrizione:** Analizzatore forense avanzato per il Task Scheduler di Windows. Rileva meccanismi di persistenza nascosti come Ghost Tasks e hijacking IFEO, integrando scansioni YARA e verifica delle firme. Monitora le modifiche post-boot tramite il Journal NTFS per identificare tentativi di evasione e binari sospetti invisibili ai tool standard.
 * [RedLotus Mod Analyzer](https://www.google.com/url?sa=E\&q=https%3A%2F%2Fgithub.com%2FItzIceHere%2FRedLotus-Mod-Analyzer%2Freleases%2Fdownload%2FRL%2FRedLotusModAnalyzer.exe)\
   **Descrizione:** Analizzatore forense per mod di Minecraft che combina scansione della memoria e del disco. Utilizza un engine di analisi del bytecode per rilevare cheat, offuscamento e native injections. Monitora il file system in tempo reale tramite USN Journal per identificare mod eliminate o modificate dopo l'avvio del gioco, verificando automaticamente l'integrità dei file tramite hash.
+* [**RedLotus Alt Checker**](https://github.com/ItzIceHere/RedLotusAltChecker/releases/download/RL/RedLotusAltChecker.exe) \
+  **Descrizione:** Utility focalizzata sulla rilevazione di ban evasion nel rispetto della privacy. Esegue una scansione incrociata su piattaforme multiple (Minecraft, Steam, Discord, Windows) utilizzando algoritmi "fuzzy" per identificare variazioni di username. Analizza la storia del file system tramite USN Journal per esporre la cancellazione o la modifica di file di gioco negli ultimi 14 giorni. Opera interamente offline, estraendo solo identificativi pubblici senza accedere a dati sensibili.
 
 ***
 
